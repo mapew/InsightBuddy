@@ -3,6 +3,7 @@
 This app is designed to help users learn. Files can be uploaded to the app and sent to the AI, allowing users to ask questions or request a summary of the content or just ask any question to AI.
 
 ex.
+
 <img width="848" height="477" alt="스크린샷 2025-07-12 210628" src="https://github.com/user-attachments/assets/0ac8bda3-297c-4910-b8b9-89a34a66092f" />
 
 <img width="759" height="546" alt="스크린샷 2025-07-12 210651" src="https://github.com/user-attachments/assets/6089f6d4-0622-4e62-b405-504272d4a951" />
