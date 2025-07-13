@@ -1,6 +1,6 @@
 # InsightBuddy
 
-This app is designed to help users learn by providing the information they request.
+This app is designed to help users learn by AI providing the information they request.
 Users can upload files to the app and send them to the AI, enabling them to ask questions, request summaries, or interact freely.
 All communication between the user and the AI is saved in a SQLite 3 database.
 Use create_db.py to initialize the database before start the app.
